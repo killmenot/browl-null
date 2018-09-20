@@ -4,10 +4,22 @@ const NullStrategy = require('../');
 
 describe('browl-null', () => {
   let strategy;
+  let repo;
+  let rootConfig;
+  let repoConfig;
   let options;
 
   beforeEach(() => {
-    strategy = new NullStrategy();
+    repo = 'webapp';
+    rootConfig = {
+      foo: 'bar'
+    };
+    repoConfig = {
+      baz: 'quux'
+    };
+
+    strategy = new NullStrategy(repo,rootConfig, repoConfig);
+
     options = {};
   });
 
