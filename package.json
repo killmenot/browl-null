@@ -29,7 +29,6 @@
     ]
   },
   "dependencies": {
-    "browl-util": "github:killmenot/browl-util",
     "debug": "^4.0.1"
   },
   "devDependencies": {
