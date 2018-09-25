@@ -1,12 +1,14 @@
 # browl-null
 
-[![Build Status](https://travis-ci.org/killmenot/browl-null.svg?branch=master)](https://travis-ci.org/killmenot/browl-null) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-yaml/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-null?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-null.svg)](hhttps://david-dm.org/killmenot/browl-null) [![npm version](https://img.shields.io/npm/v/browl-null.svg)](https://www.npmjs.com/package/browl-null)
+[![Build Status](https://travis-ci.org/killmenot/browl-null.svg?branch=master)](https://travis-ci.org/killmenot/browl-null) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-null/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-null?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-null.svg)](https://david-dm.org/killmenot/browl-null) [![npm version](https://img.shields.io/npm/v/browl-null.svg)](https://www.npmjs.com/package/browl-null)
 
 Browl null strategy allows browl to deploy an instance that doesn't need any specific actions.
 
 ## LICENSE
 
     The MIT License (MIT)
+
+    Copyright (c) Alexey Kucherenko
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
